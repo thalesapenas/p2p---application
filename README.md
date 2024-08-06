@@ -1,14 +1,11 @@
 aplicação p2p para troca de arquivos em entre hosts na mesma rede
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
+.\n
+.\n
+.\n
+.\n
+.\n
+.\n
+.\n
 como usar:
 1 roda o servidor passando a porta que vc quer que ele escute
 2 roda quantos peers vc quiser passando a porta que quer que ele opere
